@@ -21,4 +21,4 @@
 	url = https://gitlab.com/libeigen/eigen.git
 [submodule "libs/qmdnsengine"]
 	path = libs/qmdnsengine
-	url = https://github.com.cnpmjs.org/patrickelectric/qmdnsengine
+	url = https://github.com/patrickelectric/qmdnsengine
